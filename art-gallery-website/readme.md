@@ -22,17 +22,7 @@ Users should be able to:
 
 ### Screenshots
 
-![](./starter-code/Desktop.png)
-
-![](./starter-code/Desktop_Map.png)
-
-![](./starter-code/Tablet.png)
-
-![](./starter-code/Tablet_Map.png)
-
-![](./starter-code/Mobile.png)
-
-![](./starter-code/Mobile_Map.png)
+![](./../preview.jpg)
 
 ### Links
 
