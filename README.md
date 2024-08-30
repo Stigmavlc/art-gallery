@@ -53,8 +53,6 @@ Regarding the image for the map, I decided to use `background-image`. That said,
 
 I also learned how to create the color effect in the `h1` for the desktop design (thanks to my good old friend ChatGPT), and how to change the color of an SVG file. However, although unknown to me, I am sure there is a different way to change to a specific color on `:hover` other than using `filter: invert(55%) sepia(100%) saturate(626%) brightness(100%)`, but I did not want to spend any more time on this project.
 
-```
-
 ### Continued development
 
 As I mentioned before, I want to make sure that I learn from my previous mistakes. I made a list of different things that I did not know or that went wrong to avoid repeating them in future projects. For example, ignoring the designs for larger viewports because I was focusing on mobile-first, or how to display an image based on screen resolution (among others), are things I need to remember and further investigate to tackle these obstacles in the future.
@@ -71,4 +69,3 @@ One of the reasons I did not want to spend too much time on this project is beca
 
 - GitHub - [Ivan Aguilar](https://github.com/Stigmavlc)
 - Frontend Mentor - [@Stigmavlc](https://www.frontendmentor.io/profile/Stigmavlc)
-```
