@@ -183,15 +183,15 @@ figure a {
 }
 
 .icon-facebook {
-  background-image: url(./../starter-code/assets/icon-facebook.svg);
+  background-image: url(./assets/icon-facebook.svg);
 }
 
 .icon-instagram {
-  background-image: url(./../starter-code/assets/icon-instagram.svg);
+  background-image: url(./assets/icon-instagram.svg);
 }
 
 .icon-twitter {
-  background-image: url(./../starter-code/assets/icon-twitter.svg);
+  background-image: url(./assets/icon-twitter.svg);
 }
 
 .map-section {
@@ -256,7 +256,7 @@ h3 {
 /* Normal resolution for mobile devices */
 @media screen and (max-width: 767px) {
   .map-section {
-    background-image: url("./../starter-code/assets/mobile/image-map.png");
+    background-image: url("./assets/mobile/image-map.png");
   }
 }
 
@@ -264,7 +264,7 @@ h3 {
 @media screen and (max-width: 767px) and (min-resolution: 192dpi),
   screen and (max-width: 767px) and (min-resolution: 2dppx) {
   .map-section {
-    background-image: url("./../starter-code/assets/mobile/image-map@2x.png");
+    background-image: url("./assets/mobile/image-map@2x.png");
   }
 }
 
@@ -387,7 +387,7 @@ h3 {
   }
 
   .map-section {
-    background-image: url("./../starter-code/assets/tablet/image-map.png");
+    background-image: url("./assets/tablet/image-map.png");
   }
 
   .location-section {
@@ -434,7 +434,7 @@ h3 {
 @media screen and (min-width: 768px) and (min-resolution: 192dpi),
   screen and (min-width: 768px) and (min-resolution: 2dppx) {
   .map-section {
-    background-image: url("./../starter-code/assets/tablet/image-map@2x.png");
+    background-image: url("./assets/tablet/image-map@2x.png");
   }
 }
 
@@ -558,7 +558,7 @@ h3 {
   }
 
   .map-section {
-    background-image: url("./../starter-code/assets/desktop/image-map.png");
+    background-image: url("./assets/desktop/image-map.png");
   }
 
   .back-home-btn:hover {
@@ -590,6 +590,6 @@ h3 {
 @media screen and (min-width: 1439px) and (min-resolution: 192dpi),
   screen and (min-width: 1439px) and (min-resolution: 2dppx) {
   .map-section {
-    background-image: url("./../starter-code/assets/desktop/image-map@2x.png");
+    background-image: url("./assets/desktop/image-map@2x.png");
   }
 }
